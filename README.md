@@ -51,6 +51,3 @@ Proje kapsamında veri seti temizlenmiş, tutarsız veriler düzeltilmiş ve SQL
 
 ---
 
-## 👩‍💻 Hazırlayan
-
-**Aleyna**
