@@ -51,3 +51,21 @@ Proje kapsamında veri seti temizlenmiş, tutarsız veriler düzeltilmiş ve SQL
 
 ---
 
+## 📊 Tableau Dashboard
+
+Temizlenen veri, Tableau Public kullanılarak interaktif bir dashboard'a dönüştürülmüştür.
+
+![Dashboard Önizleme](dashboard_screenshot.png)
+
+🔗 **[İnteraktif Dashboard'u Görüntüle](https://public.tableau.com/app/profile/aleyna.ifciba/viz/Book1_17698638922070/Dashboard1)**
+
+### Dashboard İçeriği
+- **Toplam İşten Çıkarma Sayısı, Şirket Sayısı, Ülke Sayısı**: Genel özet KPI kartları
+- **Dünya Haritası**: Ülkelere göre toplam işten çıkarma dağılımı
+- **Top 10 Şirket**: En çok işten çıkarma yapan 10 şirket
+- **Aylık Trend**: 2020-2023 arası zaman içindeki işten çıkarma eğilimi
+- **Filtreler**: Tarih aralığı ve sektöre göre interaktif filtreleme
+
+### Kullanılan Araç
+- Tableau Public
+
